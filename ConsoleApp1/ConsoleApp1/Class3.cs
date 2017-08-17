@@ -8,5 +8,11 @@ namespace ConsoleApp1
 {
     class Class2
     {
+		public void hamuser21()
+		{
+		}
+		public void hamuser22()
+		{
+		}
     }
 }
