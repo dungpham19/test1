@@ -11,6 +11,8 @@ namespace ConsoleApp1
 		public void ham1()
 		{
 		}
-			
+		public void ham3()
+		{
+		}
     }
 }
