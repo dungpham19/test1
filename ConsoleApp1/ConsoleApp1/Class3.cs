@@ -14,5 +14,11 @@ namespace ConsoleApp1
 		public void hamuser22()
 		{
 		}
+		public void hamuser11()
+		{
+		}
+		public void hamuser12()
+		{
+		}
     }
 }
